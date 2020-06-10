@@ -1,0 +1,10 @@
+cmake
+tensorflow
+flask
+dlib
+opencv-python
+numpy
+scipy
+imutils
+
+
